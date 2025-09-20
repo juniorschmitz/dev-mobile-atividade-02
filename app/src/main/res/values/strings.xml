@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Serviços</string>
+    <string name="informacoes">Informações</string>
+    <string name="buscar">Buscar</string>
+    <string name="digite_o_cep">Digite o Cep ou CNPJ para buscar as informações</string>
+    <string name="radiocep">CEP</string>
+    <string name="radiocnpj">CNPJ</string>
+</resources>
